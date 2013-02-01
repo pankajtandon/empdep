@@ -1,5 +1,5 @@
 # Employee Department Sample App
-This project illustrates the design and documentation of a REST API
+This project illustrates the design and documentation of a REST API. To related blogPost is [here] (http://nayidisha.com/techblog/discovering-rest)
 
 ## Resources
 This project has two resources: `Employee` and `Department`. Below is the JSON representation of each:
